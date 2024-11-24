@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "JavaSkript",
+    "image": "1.png",
+    "type": "Language"
+  },
+  {
+    "id": 2,
+    "title": "Python",
+    "image": "2.png",
+    "type": "Language"
+  },
+  {
+    "id": 3,
+    "title": "React",
+    "image": "3.png",
+    "type": "Framework"
+  },
+  {
+    "id": 4,
+    "title": "Express",
+    "image": "4.png",
+    "type": "Framework"
+  },
+  {
+    "id": 5,
+    "title": "HTML/CSS",
+    "image": "5.png",
+    "type": "Language"
+  },
+  {
+    "id": 6,
+    "title": "Playwright",
+    "image": "6.png",
+    "type": "Framework"
+  },
+  {
+    "id": 7,
+    "title": "Cypress",
+    "image": "7.svg",
+    "type": "Framework"
+  },
+  {
+    "id": 8,
+    "title": "Postman",
+    "image": "8.svg",
+    "type": "Tool"
+  },
+  {
+    "id": 9,
+    "title": "DevTools",
+    "image": "9.png",
+    "type": "Tool"
+  },
+  {
+    "id": 10,
+    "title": "Agile",
+    "image": "10.png",
+    "type": "Other"
+  },
+  {
+    "id": 11,
+    "title": "Jira",
+    "image": "11.png",
+    "type": "Tool"
+  },
+  {
+    "id": 12,
+    "title": "CVS",
+    "image": "12.png",
+    "type": "Other"
+  },
+  {
+    "id": 13,
+    "title": "TypeScript",
+    "image": "13.png",
+    "type": "Language"
+  },
+  {
+    "id": 14,
+    "title": "SQL",
+    "image": "14.png",
+    "type": "Language"
+  },
+  {
+    "id": 15,
+    "title": "Postgres",
+    "image": "15.png",
+    "type": "Database"
+  },
+  {
+    "id": 16,
+    "title": "Rest API",
+    "image": "16.png",
+    "type": "Other"
+  }
+]
