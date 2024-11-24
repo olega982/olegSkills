@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/olegSkills/static/css/main.260ef48d.css",
-    "main.js": "/olegSkills/static/js/main.48090a68.js",
+    "main.js": "/olegSkills/static/js/main.e96ab9c1.js",
     "static/js/453.ed3810f9.chunk.js": "/olegSkills/static/js/453.ed3810f9.chunk.js",
     "index.html": "/olegSkills/index.html",
     "main.260ef48d.css.map": "/olegSkills/static/css/main.260ef48d.css.map",
-    "main.48090a68.js.map": "/olegSkills/static/js/main.48090a68.js.map",
+    "main.e96ab9c1.js.map": "/olegSkills/static/js/main.e96ab9c1.js.map",
     "453.ed3810f9.chunk.js.map": "/olegSkills/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.260ef48d.css",
-    "static/js/main.48090a68.js"
+    "static/js/main.e96ab9c1.js"
   ]
 }
